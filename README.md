@@ -1,8 +1,24 @@
-<h1 align="center" id="title">Borex - PHP 8 Admin and Dashboard</h1>
+<h1 align="center" id="title">
+    <a href="https://themesbrand.com/borex-php/layouts/index.html" target="_blank">
+        Borex - PHP 8 Admin and Dashboard
+    </a>
+</h1>
+<p align="center">
+    <a href="https://github.com/irfan-hue/borex-php-8-admin-and-dashboard/stargazers">
+        <img src="https://img.shields.io/github/stars/irfan-hue/borex-php-8-admin-and-dashboard" alt="stargazers">
+    </a>
+    <a href="https://github.com/irfan-hue/borex-php-8-admin-and-dashboard/fork">
+        <img src="https://img.shields.io/github/forks/irfan-hue/borex-php-8-admin-and-dashboard" alt="forks">
+    </a>
+    <a href="https://github.com/irfan-hue/borex-php-8-admin-and-dashboard/issues">
+        <img src="https://img.shields.io/github/issues/irfan-hue/borex-php-8-admin-and-dashboard" alt="issues">
+    </a>
+    <a href="https://github.com/irfan-hue/borex-php-8-admin-and-dashboard/pulls">
+        <img src="https://img.shields.io/github/issues-pr/irfan-hue/borex-php-8-admin-and-dashboard" alt="pulls">
+    </a>
+</p>
 <img src="https://i.postimg.cc/Pf4GbkXV/Dashboard-Borex-Admin-Dashboard-Template.jpg" alt="project-screenshot" width="100%" height="600/">
 <br />
-
-<p align="center"><img src="https://socialify.git.ci/irfan-hue/borex-php-8-admin-and-dashboard/image?font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">Borex PHP is a simple and beautiful admin template built with Bootstrap ^5.1.3. It has 6+ different layouts and 3 modes ( Dark Light &amp; RTL ). You can simply change to any layouts or mode by changing a couple of lines code. You can start small and large projects or update design in your existing project using Borex it is very quick and easy as it is beautiful adroit and delivers the ultimate user experience.</p>
 
