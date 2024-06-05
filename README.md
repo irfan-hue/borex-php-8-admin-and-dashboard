@@ -1,3 +1,5 @@
+<img src="https://i.postimg.cc/Pf4GbkXV/Dashboard-Borex-Admin-Dashboard-Template.jpg" alt="project-screenshot" width="100%" height="600/">
+
 <h1 align="center" id="title">Borex - PHP 8 Admin and Dashboard</h1>
 
 <p align="center"><img src="https://socialify.git.ci/irfan-hue/borex-php-8-admin-and-dashboard/image?font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
