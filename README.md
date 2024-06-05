@@ -11,7 +11,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="[https://gemootest.s3.us-east-2.amazonaws.com/convert/res/514885813225336832/a1bd1e231549996e223385573a3df9ad.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20240605%2Fus-east-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20240605T055823Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=7200&amp;X-Amz-Signature=80c4f77172dfbf4b02503ebb1dd00306597a97567ab5b1909b742f9e132e1e2c](https://app.gemoo.com/share/website-screenshot/656845495510425600?codeId=M0aKoGKWG5WRX)" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.postimg.cc/Pf4GbkXV/Dashboard-Borex-Admin-Dashboard-Template.jpg" alt="project-screenshot" width="100%" height="600/">
   
 <h2>🧐 Features</h2>
 
