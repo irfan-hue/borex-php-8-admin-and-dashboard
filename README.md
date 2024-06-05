@@ -1,8 +1,4 @@
-<h1 align="center" id="title">
-    <a href="https://themesbrand.com/borex-php/layouts/index.html" target="_blank">
-        Borex - PHP 8 Admin and Dashboard
-    </a>
-</h1>
+# [Borex - PHP 8 Admin and Dashboard](https://themesbrand.com/borex-php/layouts/index.html)
 <p align="center">
     <a href="https://github.com/irfan-hue/borex-php-8-admin-and-dashboard/stargazers">
         <img src="https://img.shields.io/github/stars/irfan-hue/borex-php-8-admin-and-dashboard" alt="stargazers">
