@@ -10,9 +10,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://app.gemoo.com/share/website-screenshot/656845495510425600?codeId=M0aKoGKWG5WRX" alt="project-screenshot" width="100" height="20/">
+![App Screenshot](https://gemootest.s3.us-east-2.amazonaws.com/convert/res/514885813225336832/a1bd1e231549996e223385573a3df9ad.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20240605%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240605T053604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=28f415694f8a89cfd385607df6868707e4c71f44b18a0629ee5e563e1b25f856)
 
-  
   
 <h2>🧐 Features</h2>
 
@@ -34,7 +33,6 @@ Here're some of the project's best features:
 *   Google Fonts
 *   Not authorized Page
 
-  
   
 <h2>💻 Built with</h2>
 
