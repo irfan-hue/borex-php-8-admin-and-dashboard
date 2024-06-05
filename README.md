@@ -8,10 +8,13 @@
 
 [https://themesbrand.com/borex-php/layouts/index.html](https://themesbrand.com/borex-php/layouts/index.html)
 
+<br/>  
+
 <h2>Project Screenshots:</h2>
 
-![App Screenshot](https://gemootest.s3.us-east-2.amazonaws.com/convert/res/514885813225336832/a1bd1e231549996e223385573a3df9ad.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20240605%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240605T053604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=28f415694f8a89cfd385607df6868707e4c71f44b18a0629ee5e563e1b25f856)
+curl -I "https://gemootest.s3.us-east-2.amazonaws.com/convert/res/514885813225336832/a1bd1e231549996e223385573a3df9ad.jpg?X-Amz-Content-S
 
+<br/>  
   
 <h2>🧐 Features</h2>
 
@@ -33,16 +36,29 @@ Here're some of the project's best features:
 *   Google Fonts
 *   Not authorized Page
 
+<br/> 
   
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-*   Bootstrap
-*   PHP
-*   JavaScript
-*   HTML
-*   CSS
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+</td><td valign="top" width="33%">
+
+</td></tr></table>  
+
+<br/>  
 
 <h2>🛡️ License:</h2>
 
